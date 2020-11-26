@@ -11,7 +11,7 @@ from yahoofinancials import YahooFinancials
 Obtain yahoo stock prices and email to nominated email addresses
 
 Program takes stocks as an input and returns prices. Some light analysis 
-done then results sent to an SQLITE3 database. Selected elements taken and 
+done then results sent to a CSV file. Selected elements taken and 
 inserted into email and sent to selected email accounts.   
 
 Paramaters:
