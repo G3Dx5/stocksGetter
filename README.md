@@ -15,4 +15,4 @@ Broad process is:
 
 usage: python3 stocksGetter.py
 
-GaDayas November 2020
+G3Dx5 November 2020
